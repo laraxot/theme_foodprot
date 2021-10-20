@@ -2,7 +2,7 @@
   <!-- Vendor JS Files -->
 
   <script src="{{Theme::asset('pub_theme::vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
-  {{--  
+
   <script src="{{Theme::asset('pub_theme::vendor/aos/aos.js')}}"></script>
   <script src="{{Theme::asset('pub_theme::vendor/glightbox/js/glightbox.min.js')}}"></script>
   <script src="{{Theme::asset('pub_theme::vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
@@ -12,7 +12,7 @@
 
   <!-- Template Main JS File -->
   <script src="{{Theme::asset('pub_theme::js/main.js')}}"></script>
-  --}}
+
 {!! Theme::showScripts(false) !!}
 
 @livewireScripts

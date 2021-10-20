@@ -15,7 +15,7 @@
 
   <!-- Vendor CSS Files -->
 
-  {{--  
+
   <link href="{{Theme::asset('pub_theme::vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
   <link href="{{Theme::asset('pub_theme::vendor/aos/aos.css')}}" rel="stylesheet">
   <link href="{{Theme::asset('pub_theme::vendor/bootstrap-icons/bootstrap-icons.css')}}" rel="stylesheet">
@@ -26,7 +26,7 @@
   
   <!-- Template Main CSS File -->
   <link href="{{Theme::asset('pub_theme::css/style.css')}}" rel="stylesheet">
-  --}}
+
   <!-- =======================================================
     * Template Name: OnePage - v4.6.0
     * Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
