@@ -1,5 +1,5 @@
 @php
     //dddx(get_defined_vars());
-    dddx($row->shopCats);
+    dddx([$row->shops,$row->shopsCats]);
 @endphp
 show blade city
