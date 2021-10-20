@@ -2,7 +2,11 @@
   <!-- Vendor JS Files -->
 
   <script src="{{Theme::asset('pub_theme::vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<<<<<<< HEAD
   {{--  
+=======
+
+>>>>>>> 1a413ee12e2768fdb139b88a72c12ba8b934bce7
   <script src="{{Theme::asset('pub_theme::vendor/aos/aos.js')}}"></script>
   <script src="{{Theme::asset('pub_theme::vendor/glightbox/js/glightbox.min.js')}}"></script>
   <script src="{{Theme::asset('pub_theme::vendor/isotope-layout/isotope.pkgd.min.js')}}"></script>
@@ -12,7 +16,11 @@
 
   <!-- Template Main JS File -->
   <script src="{{Theme::asset('pub_theme::js/main.js')}}"></script>
+<<<<<<< HEAD
   --}}
+=======
+
+>>>>>>> 1a413ee12e2768fdb139b88a72c12ba8b934bce7
 {!! Theme::showScripts(false) !!}
 
 @livewireScripts
